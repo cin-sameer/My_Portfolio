@@ -23,8 +23,8 @@ export default function About()
                 <div className="about-card">
                       <h4>Education</h4>
           <p>B.Tech in Computer Science</p>
-          <p>Your College Name</p>
-          <p>2022 – 2026</p>
+          <p>GL BAJAJ INTITUTE OF TECHNOLOGY AND MANAGEMENT</p>
+          <p>2024 – 2028</p>
 
                 </div>
                  <div className="about-card">
